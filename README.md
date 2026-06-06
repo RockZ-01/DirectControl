@@ -1,6 +1,6 @@
 # Direct Control Mod
 
-**for Paralives — made by Rockz**
+**for Paralives, made by Rockz**
 
 Direct Control lets you move your selected Para yourself with WASD instead of just clicking around. 0.3 is a pretty big one. It adds a third person camera, a proper in game settings menu, rebindable keys, sprinting, walk styles and a bunch more.
 
@@ -10,8 +10,10 @@ It's still an early public version, so expect a few rough edges here and there.
 
 1. Install BepInEx 5 (x64) for Paralives.
 2. Start the game once so BepInEx creates its folders, then close it again.
-3. Open the zip and drag the `BepInEx` folder into your Paralives folder. Everything lands in the right place on its own (it goes into `BepInEx/plugins/DirectControl`).
+3. Put `DirectControl.dll` into your Paralives folder, under `BepInEx/plugins`.
 4. Start Paralives and you're good to go.
+
+That's the only file you need. Everything, icons and all, is baked right into the DLL.
 
 ## Controls
 
