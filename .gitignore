@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+[Bb]uild/
+*.dll
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / others
+.idea/
+
+# Local config the game generates (never commit this)
+DirectControl.cfg
+
+# OS junk
+Thumbs.db
+.DS_Store
