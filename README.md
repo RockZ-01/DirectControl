@@ -18,7 +18,7 @@ That's the only file you need. Everything, icons and all, is baked right into th
 ## Controls
 
 - **F1** toggles Direct Control on and off
-- **WASD** to move (A and D turn you)
+- **WASD** to move. A and D strafe sideways, and your Para turns to face the way it walks
 - **Shift** to run
 - **F2** toggles object fading
 - **F4** opens the settings menu, or you can just click the mod icon in the bottom left of the ESC pause menu
@@ -29,6 +29,7 @@ You can rebind everything in the settings menu, so AZERTY, QWERTZ or whatever la
 
 - Moving your Para directly with WASD in Live Mode
 - A third person camera you can swing around, with sliders for shoulder side and height
+- The camera follows your Para on its own in every mode, so you never lose them off screen and never have to press anything to recenter
 - Switchable walk styles based on mood, plus sprinting with a proper running animation
 - A full in game settings menu with rebindable keys
 - A toggle to keep furniture and walls from fading out

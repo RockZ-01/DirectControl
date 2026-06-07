@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.3.1
+
+A small follow up to 0.3 that smooths out the camera and movement, plus a few annoying bug fixes.
+
+### New stuff
+
+- The camera now follows your Para on its own the moment you turn the mod on, in every camera mode. No more pressing F to recenter, it just sticks to your Para.
+- Movement now works the same in all camera modes. It's camera relative, so W moves away from the camera, A and D strafe sideways, and S walks back toward the camera with your Para turning around. Your Para always turns to face where it's heading. Before this was only in third person, the other modes turned you in place.
+
+### Fixed
+
+- Fixed the cursor getting stuck and hidden in third person. No more force quitting, turning the mod off with F1 frees the mouse again right away.
+- Fixed the cursor being hidden in the ESC pause menu while third person was on, so you can actually click the mod icon now.
+- Fixed the camera getting stuck after toggling the cursor with right click in look mode.
+- Fixed clicking Close in the settings menu sometimes also clicking the world behind it and popping open an interaction window.
+
+Thanks to everyone who reported the camera and cursor issues!
+
 ## 0.3
 
 This is a pretty big update, with a lot of new features, improvements, and some things being reworked completely.
